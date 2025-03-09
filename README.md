@@ -1,3 +1,3 @@
 # LMS (Back-End)
 ## Link to Front-End Repository
-[Front-End Repository](https://github.com/yusufhj/002LMS_front-end)
+[Front-End Repository](https://github.com/amutawabh/0.2LMS_front-end)
